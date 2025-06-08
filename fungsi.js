@@ -11,3 +11,8 @@ const kali = (a, b) => {
     console.log("Fungsi kali");
     return a * b;
 }
+
+const bagi = (a, b) => {
+    console.log("Fungsi bagi");
+    return a / b;
+}
