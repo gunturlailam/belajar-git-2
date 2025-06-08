@@ -17,4 +17,7 @@ const bagi = (a, b) => {
     return a / b;
 }
 
-console.log("gabut eii....!!!")
+const kurang = (a, b) => {
+    console.log("Fungsi kurang");
+    return a - b;
+}
