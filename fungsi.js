@@ -16,3 +16,5 @@ const bagi = (a, b) => {
     console.log("Fungsi bagi");
     return a / b;
 }
+
+console.log("gabut eii....!!!")
