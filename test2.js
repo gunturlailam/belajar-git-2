@@ -1,1 +1,0 @@
-console.log("ini adalah test2.js");
