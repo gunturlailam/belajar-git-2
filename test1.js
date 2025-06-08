@@ -1,0 +1,1 @@
+console.log("ini adalah test1.js");
